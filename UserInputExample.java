@@ -11,7 +11,7 @@ public class UserInputExample
     public static void main(String[]arg)
     {
         Scanner sc=new Scanner(System.in);
-        System.out.println("Enter the first NUmber");
+        System.out.println("Enter the first NUmber123");
         int firstNumber=sc.nextInt();
         System.out.println("Enter the second Number");
         int secondNumber=sc.nextInt();
